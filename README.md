@@ -3,6 +3,48 @@
 # For more detailed information, please refer to the attached PDF file.（Note that both the attached file and the code comments are in Chinese.）
 # 注意，本附件及代码注释均为中文（具体的论文参见PDF附件）
 
+### Homework0101: Sudoku Solver
+
+#### Assignment Requirements
+
+**Required Questions**
+
+Given the Sudoku puzzle shown above, if any two digits are removed, the number of solutions will increase. Please write a program to determine: Which two digits (positions) should be removed to yield the maximum number of solutions, and what is the maximum number of solutions?
+
+**Open-ended Question**
+
+How many possible solutions are there for a 9x9 Sudoku puzzle?
+
+**Submission Requirements:**
+
+1. Submit the source code file and a Word document.
+2. The source code file should be a compilable and runnable C language program, with comments included.
+3. The Word document should include:
+   - A description of the solution approach.
+   - The answers to the questions.
+   - Screenshots of the program's output.
+
+---
+
+### Homework0201: KMP Algorithm
+
+#### Assignment Requirements
+
+Based on the content of the attached file "test.txt" (100 MB in size, consisting only of lowercase letters without any symbols or other content), answer the following questions:
+
+1. Does the file contain the substring "zhongguo"? If so, where does it appear, and how many times?
+   - How many times does the substring "deff" appear, and where are its positions?
+2. What is the longest single-letter repetition sequence in the file (e.g., "aaaaaaa" or "bbbbbbbbbbbbbb")? Which letter is it, what is its length, and where does it appear?
+3. If we randomly select any three-letter substring "xxx," which substring appears most frequently, and which appears least frequently? How many times do they appear?
+4. Implement the KMP algorithm in your program.
+
+---
+
+### File Naming Conventions:
+
+- Files starting with "Homework0101" are for the Sudoku problem.
+- Files starting with "Homework0201" are for the KMP problem.
+
 Homework0101开头的文件是用于解决数独问题的
 
 作业要求
